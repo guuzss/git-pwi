@@ -101,3 +101,20 @@ nav a:hover{
 #produto .flex_container{
     margin-top: 43px;
 }
+
+.imgservico{
+    display: flex;
+    margin-left: 100px;
+    width: 400px;
+
+}
+.col1{
+    width: 200px;
+    margin-right: 20px;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
