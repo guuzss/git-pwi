@@ -85,6 +85,11 @@ nav a:hover{
 
 .texto_centralizado{
     text-align: center;
+    margin: 20px 0;
+}
+.texto_centralizado>h2{
+    margin-bottom: 10px;
+    
 }
 
 .btn_pata{
@@ -115,6 +120,32 @@ nav a:hover{
 }
 
 form {
+
+    width: 380px;
+}
+
+form > input, textarea{
+    width: 380px;
+    border: 1px solid #6de432;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+}
+
+form > label, textarea{
     display: flex;
-    flex-direction: column;
+}
+
+iframe{
+    width: 100%;
+}
+h2{
+    text-transform: uppercase;
+    margin-bottom: 15px;
+
+}
+
+#produto .flex_container, #contato, .flex_container{
+    margin-top: 43px;
 }
