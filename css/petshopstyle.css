@@ -19,6 +19,7 @@ header h1{
 nav{
     text-align: center;
     padding: 15px 0;
+    
 
 }
 nav li{
@@ -104,7 +105,7 @@ nav a:hover{
 }
 
 #produto .flex_container{
-    margin-top: 43px;
+    /* margin-top: 43px; */
 }
 
 .imgservico{
@@ -146,7 +147,7 @@ h2{
 
 }
 
-#produto .flex_container, #contato, .flex_container{
+#produto .flex_container #contato .flex_container{
     margin-top: 43px;
 }
 footer{
