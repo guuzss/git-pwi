@@ -149,3 +149,13 @@ h2{
 #produto .flex_container, #contato, .flex_container{
     margin-top: 43px;
 }
+footer{
+    background-color: #bdff9c;
+    text-align: center;
+  
+}
+.link{
+    width: 50px;
+    height: 50px;
+    
+}
